@@ -1,6 +1,6 @@
-# turnout
+# Introduction
 
-> A Vue.js project
+> A Vue.js project that let you login and register whit firebase
 
 ## Build Setup
 
@@ -16,3 +16,6 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+
